@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^Letter /etc/passwd
+grep ^Letter /etc/ssh/sshd_config
